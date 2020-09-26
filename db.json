@@ -1,0 +1,251 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Yelawolf",
+      "cover": "yelawolf",
+      "bio": "Michael Wayne Atha (born December 30, 1979), better known by his stage name Yelawolf, is an American rapper, singer, songwriter, fashion designer, and business owner. Born and raised in Gadsden, Alabama",
+      "albums": [
+        {
+          "albumId": "a1",
+          "title": "Ghetto Cowboy",
+          "year": 2019,
+          "cover": "ghetto-cowboy",
+          "price": 12
+        },
+        {
+          "albumId": "a2",
+          "title": "Love Story",
+          "year": 1971,
+          "cover": "love-story",
+          "price": 42
+        },
+        {
+          "albumId": "a3",
+          "title": "Trunk Muzik",
+          "year": 2010,
+          "cover": "trunk-mizic",
+          "price": 11.99
+        },
+        {
+          "albumId": "a4",
+          "title": "Radioactive",
+          "year": 2011,
+          "cover": "Yelawolf-Radioactive",
+          "price": 16.34
+        }
+      ],
+      "genre": "rock, blues"
+    },
+    {
+      "id": 2,
+      "name": "Madonna",
+      "cover": "madonna",
+      "bio": "Madonna Louise Ciccone ( born August 16, 1958) is an American singer, songwriter, and actress. Referred to as the Queen of Pop, she is regarded as one of the most impactful figures in popular culture. Madonna is noted for her continual reinvention and versatility in music production, songwriting, and visual presentation. She has pushed the boundaries of artistic expression in mainstream music, while remaining completely in charge of every aspect of her career. Her works, which incorporate social, political, sexual, and religious themes, have generated both critical acclaim and controversy. Madonna is often cited as an influence by other artists.",
+      "albums": [
+        {
+          "albumId": "b1",
+          "title": "Like a Virgin",
+          "year": 1984,
+          "cover": "like_a_virgin",
+          "price": 20
+        },
+        {
+          "albumId": "b2",
+          "title": "True Blue",
+          "year": 1986,
+          "cover": "true_blue",
+          "price": 25
+        },
+        {
+          "albumId": "b3",
+          "title": "Erotica",
+          "year": 1994,
+          "cover": "erotica",
+          "price": 15
+        },
+        {
+          "albumId": "b4",
+          "title": "Ray of Light",
+          "year": 1998,
+          "cover": "ray_of_light",
+          "price": 10
+        }
+      ],
+      "genre": "heavy metal"
+    },
+    {
+      "id": 3,
+      "name": "Lamb Of God",
+      "cover": "lamb-of-god",
+      "bio": "Lamb of God (sometimes abbreviated as LoG) is an American heavy metal band from Richmond, Virginia. Formed in 1994 as Burn the Priest, the group consists of bassist John Campbell, vocalist Randy Blythe, guitarists Mark Morton and Willie Adler, and drummer Art Cruz. The band is considered a significant member of the New Wave of American Heavy Metal movement.",
+      "albums": [
+        {
+          "albumId": "c1",
+          "title": "Ashes of the Wake",
+          "year": 2004,
+          "cover": "ashes-of-the-wake",
+          "price": 30.93
+        },
+        {
+          "albumId": "c2",
+          "title": "Sacrament",
+          "year": 2006,
+          "cover": "sacrament",
+          "price": 25
+        }
+      ],
+      "genre": "pop"
+    },
+    {
+      "id": 4,
+      "name": "Pink Floyd",
+      "cover": "pink_floyd",
+      "bio": "Pink Floyd were an English rock band formed in London in 1965. Gaining a following as a psychedelic pop group, they were distinguished for their extended compositions, sonic experimentation, philosophical lyrics and elaborate live shows, and became a leading band of the progressive rock genre. Pink Floyd were one of the first British psychedelia groups, and are credited with influencing genres such as neo-progressive rock and ambient music.",
+      "albums": [
+        {
+          "albumId": "d1",
+          "title": "The Wall",
+          "year": 1979,
+          "cover": "the_wall",
+          "price": 20
+        },
+        {
+          "albumId": "d2",
+          "title": "The Dark Side of the Moon",
+          "year": 1973,
+          "cover": "dark_side",
+          "price": 25
+        },
+        {
+          "albumId": "d3",
+          "title": "Animals",
+          "year": 1977,
+          "cover": "animals",
+          "price": 15
+        }
+      ],
+      "genre": "Hiphop"
+    },
+    {
+      "id": 5,
+      "name": "Eminem",
+      "cover": "Eminem",
+      "bio": "Marshall Bruce Mathers III (born October 17, 1972), known professionally as Eminem , is an American rapper, songwriter, and record producer. Credited with popularizing hip hop in Middle America, Eminem's global success and acclaimed works are widely regarded as having broken racial barriers for the acceptance of white rappers in popular music. While much of his transgressive work during the early 2000s made him hugely controversial, he came to be a representation of popular angst and the American underclass. He has been influential for many artists of various genres.",
+      "albums": [
+        {
+          "albumId": "d1",
+          "title": "Kamakazi",
+          "year": 2018,
+          "cover": "em-album-kamakazi",
+          "price": 12.02
+        },
+        {
+          "albumId": "d2",
+          "title": "The Marshall Mathers LP",
+          "year": 2000,
+          "cover": "mmlp-1",
+          "price": 9.68
+        },
+        {
+          "albumId": "d3",
+          "title": "Recovery",
+          "year": 2010,
+          "cover": "Eminem-Recovery-cover",
+          "price": 10.08
+        }
+      ],
+      "genre": "Rock"
+    },
+    {
+      "id": 6,
+      "name": "Nirvana",
+      "cover": "nirvana",
+      "bio": "Nirvana was an American rock band formed in Aberdeen, Washington, in 1987. Founded by lead singer-songwriter and guitarist Kurt Cobain and bassist Krist Novoselic, the band went through a succession of drummers before recruiting Dave Grohl in 1990. Characterized by their punk aesthetic, Nirvana's fusion of pop melodies with noise, combined with their themes of abjection and social alienation, made them hugely popular during their short tenure. Their music maintains a popular following and continues to influence modern rock and roll culture.",
+      "albums": [
+        {
+          "albumId": "d1",
+          "title": "The Wall",
+          "year": 1979,
+          "cover": "the_wall",
+          "price": 20
+        },
+        {
+          "albumId": "d2",
+          "title": "The Dark Side of the Moon",
+          "year": 1973,
+          "cover": "dark_side",
+          "price": 25
+        },
+        {
+          "albumId": "d3",
+          "title": "Animals",
+          "year": 1977,
+          "cover": "animals",
+          "price": 15
+        }
+      ],
+      "genre": "heavy metal"
+    },
+    {
+      "id": 7,
+      "name": "System Of A Down",
+      "cover": "system-of-down",
+      "bio": "System of a Down (also known abbreviated as SoaD or just simply as System) is an Armenian-American heavy metal band formed in Glendale, California in 1994. The band currently consists of founding members Serj Tankian (lead vocals, keyboards), Daron Malakian (vocals, guitar) and Shavo Odadjian (bass, backing vocals) as well as John Dolmayan (drums), who replaced original drummer Andy Khachaturian in 1997",
+      "albums": [
+        {
+          "albumId": "d1",
+          "title": "Toxicity",
+          "year": 2001,
+          "cover": "toxicity",
+          "price": 7.58
+        },
+        {
+          "albumId": "d2",
+          "title": "Mezmerize",
+          "year": 2005,
+          "cover": "mezmerize",
+          "price": 7.29
+        },
+        {
+          "albumId": "d3",
+          "title": "Hypnotize",
+          "year": 2005,
+          "cover": "hypnotize",
+          "price": 7
+        }
+      ],
+      "genre": "heavy metal"
+    },
+    {
+      "id": 8,
+      "name": "Slipknot",
+      "cover": "slipknot",
+      "bio": "Slipknot is an American heavy metal band from Des Moines, Iowa. The band was founded in 1995 by percussionist Shawn Crahan, drummer Joey Jordison and bassist Paul Gray. After several lineup changes in its early years, the band settled on nine members for more than a decade: Crahan, Jordison, Gray, Craig Jones, Mick Thomson, Corey Taylor, Sid Wilson, Chris Fehn, and Jim Root.",
+      "albums": [
+        {
+          "albumId": "d1",
+          "title": "All Hope Is Gone",
+          "year": 2008,
+          "cover": "all-hope-is-gone",
+          "price": 11.59
+        },
+        {
+          "albumId": "d2",
+          "title": "Iowa",
+          "year": 2001,
+          "cover": "iowa",
+          "price": 31.91
+        },
+        {
+          "albumId": "d3",
+          "title": "Mate. Feed. Kill. Repeat.",
+          "year": 1996,
+          "cover": "Mfk",
+          "price": 59.99
+        }
+      ],
+      "genre": "Rock"
+    }
+  ]
+}
